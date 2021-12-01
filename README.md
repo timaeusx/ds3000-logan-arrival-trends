@@ -1,5 +1,7 @@
 # DS3000 Final Project: Domestic Arrival Trends at Logan Airport
 
+## George Bikhazi, Ryan Dombroski, Tim Wang
+
 ## Problem Statement
 
 Commercial aviation delays cost passengers, airports, and airlines millions of dollars each year. They are caused by a wide variety of factors, including (but not limited to) weather conditions, time of year and day, originating airport, and more. With the hope of getting a better look at what really causes flight delays, we aim to explore the extent to which specific selected factors lead to flight delays. In particular, we aim to explore and evaluate the on-time domestic arrival statistics at Boston Logan International Airport and analyze how these factors affect flight punctuality throughout the year.
@@ -10,4 +12,4 @@ The advent of reliable commercial aviation was a milestone in accelerating the c
 
 ## Data
 
-We obtained domestic arrival data for Logan International Airport from the [United States Department of Transportation’s Bureau of Transportation Statistics](https://transtats.bts.gov/ONTIME/Arrivals.aspx), and weather data from [OpenWeatherMap’s historical data API](https://openweathermap.org/history-bulk). This data is available in CSV form in the [data directory](/data) of this repository.
+Domestic arrival data for Logan International Airport was obtained from the [United States Department of Transportation’s Bureau of Transportation Statistics](https://transtats.bts.gov/ONTIME/Arrivals.aspx), and weather data from [OpenWeatherMap’s historical data API](https://openweathermap.org/history-bulk). This data is available in CSV form in the [data directory](/data) of this repository.
