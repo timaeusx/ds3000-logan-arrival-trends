@@ -8,6 +8,8 @@ In this project, we explore factors that contribute to domestic commercial fligh
 
 Our prediction algorithms made use of regression models, as opposed to classification models, because we wanted to predict flight delay as a numerical value. To this end, we tested Linear, Ridge, and Lasso regression models, and made use of feature selection and hyperparameter tuning in the form of a grid search algorithm to optimize each model's prediction algorithm. Ultimately, our analysis suggests that the factors we identified do not play a particularly significant role in predicting domestic flight delays at Logan Airport. However, we note that this may be due to limitations in our methodology and data.
 
+See the [notebook](/DS3000_FP4_Group31.ipynb) for further information.
+
 ## Data
 
 All data is available in CSV form in the [data directory](https://github.com/timaeusx/ds3000-logan-arrival-trends/tree/main/data) of this project's GitHub repository.
